@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deep-high-resolution-representation-learning/keypoint-detection-coco)](https://paperswithcode.com/sota/keypoint-detection-coco?p=deep-high-resolution-representation-learning)
+
 # Deep High-Resolution Representation Learning for Human Pose Estimation(accepted to CVPR2019)
 
 ## Introduction
